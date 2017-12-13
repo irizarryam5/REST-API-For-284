@@ -1,0 +1,29 @@
+data1 = [
+   {
+      "picks": 12,
+      "money": 240
+   },
+   {
+      "picks": 16,
+      "money": 380
+   },
+   {
+      "picks": 15,
+      "money": 250
+   },
+   {
+      "picks": 17,
+      "money": 300
+   },
+   {
+      "picks": 19,
+      "money": 380
+   },
+   {
+      "picks": 17,
+      "money": 310
+   },
+   {
+      "timeOfUpdate": "11/9/2017 4:26 EST"
+   }
+]

@@ -1,0 +1,103 @@
+{
+   "Picks": [
+      {
+         "Date": 20171018,
+         "Alex": 12,
+         "Amanda": 12,
+		 "Antonio": 15,
+		 "Morgan": 11,
+		 "Nick": 15,
+		 "Will": 19
+      },
+	  {
+		 "Date": 20171025,
+         "Alex": 11,
+         "Amanda": 15,
+		 "Antonio": 20,
+		 "Morgan": 16,
+		 "Nick": 16,
+		 "Will": 20
+	  },
+	  {
+		 "Date": 20171101,  
+         "Alex": 14,
+         "Amanda": 20,
+		 "Antonio": 17,
+		 "Morgan": 13,
+		 "Nick": 13,
+		 "Will": 19
+	  },
+	  {
+		 "Date": 20171108,  
+         "Alex": 10,
+         "Amanda": 22,
+		 "Antonio": 17,
+		 "Morgan": 11,
+		 "Nick": 11,
+		 "Will": 17
+	  },
+	  {
+		 "Date": 20171115,  
+         "Alex": 13,
+         "Amanda": 25,
+		 "Antonio": 14,
+		 "Morgan": 12,
+		 "Nick": 12,
+		 "Will": 18
+	  },
+	  {
+		 "Date": 20171122,  
+         "Alex": 9,
+         "Amanda": 21,
+		 "Antonio": 16,
+		 "Morgan": 14,
+		 "Nick": 14,
+		 "Will": 16
+	  },
+	  {
+		 "Date": 20171201,  
+         "Alex": 9,
+         "Amanda": 17,
+		 "Antonio": 16,
+		 "Morgan": 16,
+		 "Nick": 16,
+		 "Will": 16
+	  },
+	  {
+		 "Date": 20171204,  
+         "Alex": 10,
+         "Amanda": 16,
+		 "Antonio": 15,
+		 "Morgan": 15,
+		 "Nick": 17,
+		 "Will": 15
+	  },
+	  {
+		 "Date": 20171205,  
+         "Alex": 11,
+         "Amanda": 17,
+		 "Antonio": 14,
+		 "Morgan": 16,
+		 "Nick": 18,
+		 "Will": 16
+	  },
+	  {
+		 "Date": 20171206,  
+         "Alex": 11,
+         "Amanda": 17,
+		 "Antonio": 14,
+		 "Morgan": 16,
+		 "Nick": 18,
+		 "Will": 16
+	  },
+	  {
+		 "Date": 20171209,  
+         "Alex": 12,
+         "Amanda": 16,
+		 "Antonio": 15,
+		 "Morgan": 17,
+		 "Nick": 19,
+		 "Will": 17
+	  }
+	]
+}

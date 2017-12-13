@@ -1,0 +1,104 @@
+240	380	250	300	380	310
+{
+   "Money": [
+      {
+         "Date": 20171018,
+         "Alex": 240,
+         "Amanda": 210,
+		 "Antonio": 310,
+		 "Morgan": 240,
+		 "Nick": 270,
+		 "Will": 350
+      },
+	  {
+		 "Date": 20171025,
+         "Alex": 220,
+         "Amanda": 240,
+		 "Antonio": 410,
+		 "Morgan": 310,
+		 "Nick": 350,
+		 "Will": 360
+	  },
+	  {
+		 "Date": 20171101,  
+         "Alex": 280,
+         "Amanda": 340,
+		 "Antonio": 350,
+		 "Morgan": 220,
+		 "Nick": 210,
+		 "Will": 450
+	  },
+	  {
+		 "Date": 20171108,  
+         "Alex": 200,
+         "Amanda": 410,
+		 "Antonio": 280,
+		 "Morgan": 160,
+		 "Nick": 180,
+		 "Will": 310
+	  },
+	  {
+		 "Date": 20171115,  
+         "Alex": 260,
+         "Amanda": 500,
+		 "Antonio": 230,
+		 "Morgan": 210,
+		 "Nick": 190,
+		 "Will": 320
+	  },
+	  {
+		 "Date": 20171122,  
+         "Alex": 180,
+         "Amanda": 440,
+		 "Antonio": 270,
+		 "Morgan": 230,
+		 "Nick": 250,
+		 "Will": 260
+	  },
+	  {
+		 "Date": 20171201,  
+         "Alex": 180,
+         "Amanda": 360,
+		 "Antonio": 250,
+		 "Morgan": 240,
+		 "Nick": 310,
+		 "Will": 260
+	  },
+	  {
+		 "Date": 20171204,  
+         "Alex": 200,
+         "Amanda": 390,
+		 "Antonio": 230,
+		 "Morgan": 270,
+		 "Nick": 320,
+		 "Will": 250
+	  },
+	  {
+		 "Date": 20171205,  
+         "Alex": 220,
+         "Amanda": 400,
+		 "Antonio": 220,
+		 "Morgan": 280,
+		 "Nick": 330,
+		 "Will": 260
+	  },
+	  {
+		 "Date": 20171206,  
+         "Alex": 220,
+         "Amanda": 400,
+		 "Antonio": 220,
+		 "Morgan": 280,
+		 "Nick": 330,
+		 "Will": 260
+	  },
+	  {
+		 "Date": 20171209,  
+         "Alex": 240,
+         "Amanda": 380,
+		 "Antonio": 250,
+		 "Morgan": 300,
+		 "Nick": 380,
+		 "Will": 310
+	  }
+	]
+}

@@ -1,0 +1,152 @@
+data = [
+   {
+      "team": "ATL",
+      "games": 4,
+      "over": 0
+   },
+   {
+      "team": "BKN",
+      "games": 5,
+      "over": 1
+   },
+   {
+      "team": "BOS",
+      "games": 2,
+      "over": 1
+   },
+   {
+      "team": "CHA",
+      "games": 6,
+      "over": 0
+   },
+   {
+      "team": "CHI",
+      "games": 2,
+      "over": 0
+   },
+   {
+      "team": "CLE",
+      "games": 1,
+      "over": 1
+   },
+   {
+      "team": "DAL",
+      "games": 7,
+      "over": 0
+   },
+   {
+      "team": "DEN",
+      "games": 1,
+      "over": 0
+   },
+   {
+      "team": "DET",
+      "games": 6,
+      "over": 1
+   },
+   {
+      "team": "GSW",
+      "games": 3,
+      "over": 0
+   },
+   {
+      "team": "HOU",
+      "games": 7,
+      "over": 1
+   },
+   {
+      "team": "IND",
+      "games": 14,
+      "over": 1
+   },
+   {
+      "team": "LAC",
+      "games": 11,
+      "over": 0
+   },
+   {
+      "team": "LAL",
+      "games": 3,
+      "over": 0
+   },
+   {
+      "team": "MEM",
+      "games": 7,
+      "over": 0
+   },
+   {
+      "team": "MIA",
+      "games": 5,
+      "over": 0
+   },
+   {
+      "team": "MIL",
+      "games": 3,
+      "over": 0
+   },
+   {
+      "team": "MIN",
+      "games": 1,
+      "over": 0
+   },
+   {
+      "team": "NOP",
+      "games": 2,
+      "over": 1
+   },
+   {
+      "team": "NYK",
+      "games": 6,
+      "over": 1
+   },
+   {
+      "team": "OKC",
+      "games": 7,
+      "over": 0
+   },
+   {
+      "team": "ORL",
+      "games": 1,
+      "over": 1
+   },
+   {
+      "team": "PHI",
+      "games": 1,
+      "over": 0
+   },
+   {
+      "team": "PHX",
+      "games": 2,
+      "over": 0
+   },
+   {
+      "team": "POR",
+      "games": 3,
+      "over": 0
+   },
+   {
+      "team": "SAC",
+      "games": 3,
+      "over": 0
+   },
+   {
+      "team": "SAS",
+      "games": 3,
+      "over": 0
+   },
+   {
+      "team": "TOR",
+      "games": 7,
+      "over": 1
+   },
+   {
+      "team": "UTA",
+      "games": 4,
+      "over": 1
+   },
+   {
+      "team": "WAS",
+      "games": 1,
+      "over": 0
+   }
+]
